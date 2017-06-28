@@ -1,0 +1,9 @@
+#virtual env
+python3 -m env ENV_BLOG
+
+#Django - Django-1.11.2
+pip install Django
+
+#django-admin startproject blog
+
+#python manage.py startapp blog_app
