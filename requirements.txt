@@ -7,3 +7,6 @@ pip install Django
 #django-admin startproject blog
 
 #python manage.py startapp blog_app
+
+#Django-taggit django-taggit-0.22.1
+pip install django-taggit
